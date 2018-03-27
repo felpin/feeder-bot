@@ -1,0 +1,17 @@
+{
+  "name": "feeder-bot",
+  "version": "1.0.0",
+  "homepage": "https://discordapp.com/api/oauth2/authorize?client_id=426555362456502282&permissions=2048&scope=bot",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/felpin/feeder-bot.git"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "dotenv": "^5.0.1"
+  }
+}
